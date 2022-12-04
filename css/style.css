@@ -247,6 +247,7 @@ color: #333;
   width: 55%;
 }
 h2{
+  
   text-align: justify;
   margin-left: auto;
   margin-right: auto;
@@ -257,6 +258,7 @@ h4{
   font-size: 10px;
 }
 .bio h2 h4{
+  font-size: 12px;
   margin-left: auto;
   margin-right: auto;
 }
