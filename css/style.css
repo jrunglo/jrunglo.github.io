@@ -132,11 +132,6 @@ h4{
   line-height: 2;
   text-align: center;
 }
-.bios{
-  font-family: "Open Sans", sans-serif;
-  font-size: 17px;
-  text-align: center;
-}
 .media a{
 font-size: 30px;
 color: #333;
@@ -252,7 +247,6 @@ color: #333;
   width: 55%;
 }
 h2{
-  font-size: 9px;
   text-align: justify;
   margin-left: auto;
   margin-right: auto;
@@ -260,10 +254,6 @@ h2{
 h4{
   font-weight: lighter;
   white-space: nowrap;
-  font-size: 9px;
-}
-.bios h2 h4{
-  margin-left: auto;
-  margin-right: auto;
+  font-size: 15px;
 }
 }
