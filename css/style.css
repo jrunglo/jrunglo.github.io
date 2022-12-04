@@ -118,11 +118,13 @@ i {
 h2{
   font-family: ,"Open Sans", sans-serif;
   color: #333;
+  font-weight: 400;
   text-align: justify;
   margin-left: auto;
   margin-right: auto;
 }
 h4{
+  font-weight: 400;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
