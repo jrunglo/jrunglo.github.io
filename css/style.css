@@ -127,7 +127,9 @@ h4{
   font-weight: lighter;
 }
 .bio{
-  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.8;
+  line-height: 2;
   text-align: center;
 }
 .media a{
