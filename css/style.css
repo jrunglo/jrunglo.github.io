@@ -121,13 +121,13 @@ h2{
   margin-right: auto;
 }
 h4{
-  font-weight: 400;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   font-weight: lighter;
 }
 .bio{
+  font-size: 10px;
   text-align: center;
 }
 .media a{
@@ -252,7 +252,7 @@ h2{
 h4{
   font-weight: lighter;
   white-space: nowrap;
-  font-size: 10px;
+  font-size: 15px;
 }
 .bio h2 h4{
   margin-left: auto;
