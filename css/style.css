@@ -131,7 +131,7 @@ h4{
   text-align: center;
 }
 .media a{
-font-size: 25px;
+font-size: 30px;
 color: #333;
 }
 @media only screen and (max-width:760px){
@@ -252,7 +252,10 @@ h2{
 h4{
   font-weight: lighter;
   white-space: nowrap;
-  font-size: 11px;
-  margin-top: -10px;
+  font-size: 15px;
+}
+.bio h2 h4{
+  margin-left: auto;
+  margin-right: auto;
 }
 }
