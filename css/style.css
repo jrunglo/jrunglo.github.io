@@ -36,7 +36,6 @@ i {
     line-height: 45px;
     display: block;
     padding: 0px 20px;
-    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     position: relative;
 }
 
@@ -52,7 +51,7 @@ i {
 	right: 20px;
 	top: 10%;
 	font-size: 14px;
-	font-family: "Font Awesome 5 Free";
+	font-family: "Open Sans", sans-serif;
 	display: inline-block;
 	padding-right: 3px;
 	vertical-align: middle;
@@ -68,7 +67,6 @@ i {
 	height: 100%;
 	top: 10px;
 	left: 0px;
-	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
 	background-color: #333;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
@@ -168,7 +166,6 @@ color: #333;
     line-height: 32px;
     display: block;
     padding: 0px 5px;
-    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
     position: relative;
 }
 
@@ -199,7 +196,6 @@ color: #333;
 	height: 100%;
 	top: 10px;
 	left: 0px;
-	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
 	background-color: #333;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
