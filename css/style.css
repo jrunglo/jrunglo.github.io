@@ -254,6 +254,7 @@ h2{
 h4{
   font-weight: lighter;
   white-space: nowrap;
-  font-size: 15px;
+  font-size: 11px;
+  margin-top: -10px;
 }
 }
