@@ -61,6 +61,7 @@ footer .bottom-details .bottom_text{
   justify-content: space-between;
 }
 p{
+  font-size: 12px;
   font-family: "Open Sans", sans-serif;
   color: white;
 }
