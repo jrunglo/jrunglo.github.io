@@ -133,7 +133,7 @@ h4{
   text-align: center;
 }
 .media a{
-float: left;
+float: center;
 font-size: 30px;
 color: #333;
 }
