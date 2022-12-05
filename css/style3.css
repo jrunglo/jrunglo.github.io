@@ -109,9 +109,9 @@ header::before{
 .data-card p {
   text-align: justify;
   color: #333;
+  font-size: 15px;
   font-weight: 400;
   line-height: 1.8;
-  line-height: 1.5;
 }
 li{
   text-align: justify;
