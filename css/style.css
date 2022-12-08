@@ -137,6 +137,10 @@ float: center;
 font-size: 30px;
 color: #333;
 }
+.certificate{
+  padding-top: 15px;
+  width: 90%;
+}
 @media only screen and (max-width:760px){
 #navbar-animmenu {
 	background: #DDE1E7;
@@ -246,6 +250,10 @@ color: #333;
 .profile{
   padding-top: 15px;
   width: 55%;
+}
+.certificate{
+  padding-top: 15px;
+  width: 90%;
 }
 h2{
   text-align: justify;
