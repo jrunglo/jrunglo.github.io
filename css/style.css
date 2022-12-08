@@ -141,6 +141,10 @@ color: #333;
   padding-top: 15px;
   width: 90%;
 }
+.troph{
+  padding-top: 5px;
+  width: 70%;
+}
 @media only screen and (max-width:760px){
 #navbar-animmenu {
 	background: white;
@@ -254,6 +258,10 @@ color: #333;
 .certificate{
   padding-top: 15px;
   width: 90%;
+}
+.troph{
+  padding-top: 5px;
+  width: 70%;
 }
 h2{
   text-align: justify;
